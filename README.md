@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Retrofit View Model](https://github.com/tolgaprm/RetrofitViewModel)
 
-- 🌱 I’m currently learning **Jetpack Compose and Ktor**
+- 🌱 I’m currently learning **Ktor**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tolgaprm?tab=repositories](https://github.com/tolgaprm?tab=repositories)
 
