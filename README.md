@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/tlgprm38" target="blank"><img src="https://img.shields.io/twitter/follow/tlgprm38?logo=twitter&style=for-the-badge" alt="tlgprm38" /></a> </p>
 
-- 🔭 I’m currently working on [Retrofit View Model](https://github.com/tolgaprm/RetrofitViewModel)
+- 🔭 I’m currently working on [Crypto Currencies](https://github.com/tolgaprm/RetrofitViewModel)
 
 - 🌱 I’m currently learning **Ktor**
 
