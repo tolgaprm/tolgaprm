@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/tlgprm38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tlgprm38" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tolga-pirim-7b0b10168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolga-pirim-7b0b10168" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tolgapirim25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tolgapirim25" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
