@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/tlgprm38" target="blank"><img src="https://img.shields.io/twitter/follow/tlgprm38?logo=twitter&style=for-the-badge" alt="tlgprm38" /></a> </p>
 
-- 🔭 I’m currently working on [MySoothe](https://github.com/tolgaprm/MySoothe)
+- 🔭 I’m currently working on [Ricky and Morty](https://github.com/tolgaprm/RickyAndMorty)
 
 - 🌱 I’m currently learning **[Ktor](https://ktor.io/docs/welcome.html)**
 
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tlgprm38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tlgprm38" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tolga-pirim-7b0b10168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolga-pirim-7b0b10168" height="30" width="40" /></a>
 
 </p>
