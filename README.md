@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Ricky and Morty](https://github.com/tolgaprm/RickyAndMorty)
 
-- 🌱 I’m currently learning **[Ktor](https://ktor.io/docs/welcome.html)**
+- 🌱 I’m currently learning **[Ktor](https://ktor.io/docs/welcome.html)** and **[Jetpack Compose](https://developer.android.com/jetpack/compose)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tolgaprm?tab=repositories](https://github.com/tolgaprm?tab=repositories)
 
