@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/tlgprm38" target="blank"><img src="https://img.shields.io/twitter/follow/tlgprm38?logo=twitter&style=for-the-badge" alt="tlgprm38" /></a> </p>
 
-- 🔭 I’m currently working on [Ricky and Morty](https://github.com/tolgaprm/RickyAndMorty)
+- 🔭 I’m currently working on [Boruto App](https://github.com/tolgaprm/Boruto-App)
 
 - 🌱 I’m currently learning **[Ktor](https://ktor.io/docs/welcome.html)** and **[Jetpack Compose](https://developer.android.com/jetpack/compose)**
 
