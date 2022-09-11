@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋, I'm Tolga</h1>
 <h3 align="center">I'm an Android Developer. I love coding, writing and speaking</h3>
 
-<p align="left"> <a href="https://twitter.com/tlgprm38" target="blank"><img src="https://img.shields.io/twitter/follow/tlgprm38?logo=twitter&style=for-the-badge" alt="tlgprm38" /></a> </p>
+
 
 - 🔭 I’m currently working on [Rick And Morty Compose](https://github.com/tolgaprm/RickAndMortyCompose)
 
 - 🌱 I’m currently learning **[Ktor](https://ktor.io/docs/welcome.html)** and **[Jetpack Compose](https://developer.android.com/jetpack/compose)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/tolgaprm?tab=repositories](https://github.com/tolgaprm?tab=repositories)
 
 - 📫 How to reach me **tolgapirim25@gmail.com**
 
