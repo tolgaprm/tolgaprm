@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello 👋, I'm Tolga</h1>
-<h3 align="center">I'm an Android Developer. I love coding, writing and speaking</h3>
-
-
 
 - 🔭 I’m currently working on [Rick And Morty Compose](https://github.com/tolgaprm/RickAndMortyCompose)
 
