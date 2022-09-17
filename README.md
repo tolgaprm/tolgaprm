@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello 👋, I'm Tolga</h1>
 
-- 🔭 I’m currently working on [Rick And Morty Compose](https://github.com/tolgaprm/RickAndMortyCompose)
+- 🔭 I’m currently working on [GoogleAuthApp](https://github.com/tolgaprm/GoogleAuthApp)
 
 - 🌱 I’m currently learning **[Ktor](https://ktor.io/docs/welcome.html)** and **[Jetpack Compose](https://developer.android.com/jetpack/compose)**
 
