@@ -1,37 +1,56 @@
-### Hi there 👋
+✨ Hi 👋, My name is **Tolga,** I am **Android Developer** from Turkey💻 
 
-<!--
-**tolgaprm/tolgaprm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/tolga-pirim-7b0b10168"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hello 👋, I'm Tolga</h1>
-
+___
+- 👀 I’m interested in Android Development
 - 🔭 I’m currently working on [GoogleAuthApp](https://github.com/tolgaprm/GoogleAuthApp)
 
 - 🌱 I’m currently learning **[Ktor](https://ktor.io/docs/welcome.html)** and **[Jetpack Compose](https://developer.android.com/jetpack/compose)**
+- 👯 I’m willing to collaborate on building communitites, and research projects.
 
 - 📫 How to reach me **tolgapirim25@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tolga-pirim-7b0b10168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolga-pirim-7b0b10168" height="30" width="40" /></a>
+<br>
 
-</p>
+## 💼 Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  </p>
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&color=01EB4F)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=3246FF)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&color=orange)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=blue)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=00ED64)
+![](https://img.shields.io/badge/Code-Ktor-informational?style=flat&logo=Ktor&color=9968FE)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolgaprm&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="tolgaprm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgaprm&show_icons=true&locale=en" alt="tolgaprm" /></p>
+<div></div>
+
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=orange)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+
+
+<br>
+
+## 📈 GitHub Stats 
+
+![tolgaprm's github stats](https://github-readme-stats.vercel.app/api?username=tolgaprm&show_icons=true&theme=merko)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaprm&layout=compact&theme=merko)]
+
+
+
+
+</div>
+
+
+
+
