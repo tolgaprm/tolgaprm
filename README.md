@@ -11,7 +11,7 @@
 
 ___
 - 👀 I’m interested in Android Development
-- 🔭 I’m currently working on [GoogleAuthApp](https://github.com/tolgaprm/GoogleAuthApp)
+- 🔭 I’m currently working on [Mova-MovieApp](https://github.com/tolgaprm/Mova-MovieApp)
 
 - 🌱 I’m currently learning **[Ktor](https://ktor.io/docs/welcome.html)** and **[Jetpack Compose](https://developer.android.com/jetpack/compose)**
 - 👯 I’m willing to collaborate on building communitites, and research projects.
@@ -42,9 +42,9 @@ ___
 
 ## 📈 GitHub Stats 
 
-![tolgaprm's github stats](https://github-readme-stats.vercel.app/api?username=tolgaprm&show_icons=true&theme=merko)]
+![tolgaprm's github stats](https://github-readme-stats.vercel.app/api?username=tolgaprm&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaprm&layout=compact&theme=merko)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaprm&layout=compact&theme=merko)
 
 
 
