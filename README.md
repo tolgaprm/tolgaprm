@@ -1,4 +1,4 @@
-✨ Hi 👋, My name is **Tolga,** I am **Android Developer** from Turkey💻 
+✨ Hi 👋, My name is **Tolga,** I am an **Android Developer** from Turkey💻 
 
 ---
 
