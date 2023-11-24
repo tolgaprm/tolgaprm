@@ -14,9 +14,9 @@
 
 ___
 - 👀 I’m interested in Android Development
-- 🔭 I’m currently working on [Mova-MovieApp](https://github.com/tolgaprm/Mova-MovieApp)
+- 🔭 I’m currently working on [Instagram Clone](https://github.com/tolgaprm/InstagramClone) and [MovaApp-compose-multiplatform](https://github.com/tolgaprm/MovaApp-compose-multiplatform)
 
-- 🌱 I’m currently learning **[Ktor](https://ktor.io/docs/welcome.html)** and **[Jetpack Compose](https://developer.android.com/jetpack/compose)**
+- 🌱 I’m currently learning **[KMP Kotlin Multiplatform﻿](https://kotlinlang.org/docs/multiplatform.html)** , **[Jetpack Compose](https://developer.android.com/jetpack/compose?hl=en)** and always **Android** :)
 - 👯 I’m willing to collaborate on building communitites, and research projects.
 
 - 📫 How to reach me **tolgapirim25@gmail.com**
