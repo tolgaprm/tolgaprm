@@ -1,5 +1,5 @@
 
-![Tolga Pirim](https://github.com/tolgaprm/tolgaprm/assets/53945332/7788733c-5b68-4177-a649-ce89e511983b)
+![Tolga Pirim](https://github.com/tolgaprm/tolgaprm/assets/53945332/a019fc5f-c80f-456e-ae57-af7fa6901505)
 
 ✨ Hi 👋, My name is **Tolga,** I am an **Android Developer** from Turkey💻 
 
