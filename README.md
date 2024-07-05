@@ -5,18 +5,19 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/tolga-pirim-7b0b10168"/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="mailto:tolgapirim25@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/tolga-pirim-7b0b10168"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@tolgapirim25"><img src="https://img.icons8.com/bubbles/75/000000/medium-new.png" alt="Medium"/></a>
+  <a href="https://www.instagram.com/togiprm/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
 </p>
 
-___
-- 👀 I’m interested in Android Development
-- 🔭 I’m currently working on [Instagram Clone](https://github.com/tolgaprm/InstagramClone) and [MovaApp-compose-multiplatform](https://github.com/tolgaprm/MovaApp-compose-multiplatform)
 
-- 🌱 I’m currently learning **[KMP Kotlin Multiplatform﻿](https://kotlinlang.org/docs/multiplatform.html)** , **[Jetpack Compose](https://developer.android.com/jetpack/compose?hl=en)** and always **Android** :)
+<h3 align="left"> Resume </h3>
+- I'm an Android Developer with more than three years of experience.</br>
+
+- 🌱 I’m currently learning **[KMP Kotlin Multiplatform﻿](https://kotlinlang.org/docs/multiplatform.html)**, **[Jetpack Compose](https://developer.android.com/jetpack/compose?hl=en)** and always **Android** :)
+
 - 👯 I’m willing to collaborate on building communitites, and research projects.
 
 - 📫 How to reach me **tolgapirim25@gmail.com**
@@ -30,9 +31,6 @@ ___
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&color=orange)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=blue)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=00ED64)
-![](https://img.shields.io/badge/Code-Ktor-informational?style=flat&logo=Ktor&color=9968FE)
-
 
 <div></div>
 
