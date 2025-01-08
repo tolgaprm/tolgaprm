@@ -9,7 +9,6 @@
   <a href="mailto:tolgapirim25@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/tolga-pirim-7b0b10168"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://medium.com/@tolgapirim25"><img src="https://img.icons8.com/bubbles/75/000000/medium-new.png" alt="Medium"/></a>
-  <a href="https://www.instagram.com/togiprm/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
 </p>
 
 
